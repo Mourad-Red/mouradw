@@ -4,9 +4,9 @@
 <hr/>
 <h2>Education</h2>
 <ul>
-  <li>2023-2024 Master de droit fe kosom Universite Paris 1 Sorbonne.</li>
-  <li>2019-2023 Licence de droit Universite Paris 1 Sorbonne (kosom idai) .</li>
-  <li>2019-2023 Licence de droit egyptien, Universite de Caire (kosom masr)</li>
+  <li>2023-2024 Master de droit fe Universite Paris 1 Sorbonne.</li>
+  <li>2019-2023 Licence de droit Universite Paris 1 Sorbonne ( idai) .</li>
+  <li>2019-2023 Licence de droit egyptien, Universite de Caire ( masr)</li>
   <li>2019 Bac Francais ES avec mention Bien( agmad madrasa fel koun)</li>
 </ul>
 <hr/>
@@ -52,9 +52,9 @@
 <h2>Work experience</h2>
 <ul>
   <li> Winning mutliple times at the team competition <a href="https://www.youtube.com/watch?v=Va35JOkNJ60"> Sabaho </a>
-  <li>Intern at kosom tito</li>
-  <li>Intern at kosom tito etnein</li>
-  <li> Junior associate at kosom tito talata</li>
+  <li>Intern at  tito</li>
+  <li>Intern at  tito etnein</li>
+  <li> Junior associate at tito talata</li>
 </ul>
 <hr/>
 <h2>My Contact details</h2>
